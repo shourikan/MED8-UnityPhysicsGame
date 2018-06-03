@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "MSP_Game",
+"dataUrl": "Out.data.unityweb",
+"asmCodeUrl": "Out.asm.code.unityweb",
+"asmMemoryUrl": "Out.asm.memory.unityweb",
+"asmFrameworkUrl": "Out.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
